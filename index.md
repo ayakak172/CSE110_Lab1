@@ -13,9 +13,9 @@ Some hobbies that I have are:
 My favorite horror movies are:
 1. [*The Black Phone*](https://en.wikipedia.org/wiki/The_Black_Phone) \
    This [image](black_phone.jpg) might scare some people so I linked it separately.
-2. [*Scream*](https://en.wikipedia.org/wiki/Scream_(1996_film))
+2. [*Scream*](https://en.wikipedia.org/wiki/Scream_(1996_film)) \
    ![Scream](https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg)
-3. [*Immaculate*](https://en.wikipedia.org/wiki/Immaculate_(2024_film))
+3. [*Immaculate*](https://en.wikipedia.org/wiki/Immaculate_(2024_film)) \
    ![Immaculate](https://images.squarespace-cdn.com/content/v1/511eea22e4b06642027a9a99/e9f83ec8-7d8d-4b74-830c-b45436f1235f/Immaculate.jpg)
 
 Some things that I would like to work on are:
